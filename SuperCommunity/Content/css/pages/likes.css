@@ -1,0 +1,85 @@
+﻿div.likesPanel span {
+    font-size: 14px;
+    float: right;
+    padding: 0 12px;
+    background: url(/Images/votes/likeBox-dark.png) no-repeat;
+    -ms-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+
+
+
+div.ownerPanel {
+    width: 225px;
+    background: url(/Images/votes/ownerPanel.jpg) no-repeat;
+    -ms-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+
+img.imageBox {
+    width: 30px;
+    z-index: 1;
+}
+
+.voteImage, .imageBox,
+.likesPanel, .ownerPanel,
+div.ownerPanel img, img.voteImage {
+    height: 20px;
+}
+
+img.voteImage {
+    width: 75px;
+    z-index: 1;
+    margin-right: 2px;
+}
+
+div.LikePanel,
+div.DislikePanel {
+    height: inherit;
+    width: 50%;
+    z-index: 1;
+}
+
+div.LikeBox, div.DislikeBox {
+    float: right;
+    text-align: center;
+}
+
+
+div.LikePanel {
+    position: relative;
+    float: left;
+}
+
+div.DislikePanel {
+    position: relative;
+    float: right;
+}
+
+a.dislikeButton,
+a.likeButton {
+    height: inherit;
+    width: 70%;
+    float: left;
+    
+}
+
+a.likeButton {
+    background: url(/Images/votes/like.jpg) no-repeat;
+    -ms-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+
+a.dislikeButton {
+    background: url(/Images/votes/dislike.png) no-repeat;
+    -ms-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+}

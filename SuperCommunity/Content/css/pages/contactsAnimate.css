@@ -1,0 +1,30 @@
+﻿
+img#box {
+    position: absolute;
+    width: 220px;
+    height: 220px;
+    bottom: 15px;
+    left: 15px;
+    z-index: 1;
+}
+
+.menuAnimate {
+    height: 500px;
+    width: 300px;
+    margin: 50px 50px;
+    position: relative;
+}
+
+.menuAnimate > div {
+    position: absolute;
+}
+
+.menuAnimate > div > span {
+    position: absolute;
+    top: 0;
+    left: 50px;
+    padding: 5px 10px;
+    width: 200px;
+    color: #00008b;
+}
+

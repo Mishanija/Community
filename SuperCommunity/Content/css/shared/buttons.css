@@ -1,0 +1,77 @@
+﻿.editButton {
+    background-image: linear-gradient(to bottom, #8ECE96, #079E2B);
+}
+
+    .editButton:hover {
+        background-color: #079E2B;
+    }
+
+.createButton {
+    background-image: linear-gradient(to bottom, #C583DA, #922ECA);
+}
+
+    .createButton:hover {
+        background-color: #922ECA;
+    }
+
+
+.detailsButton {
+    background-image: linear-gradient(to bottom, #A9B9E0, #3F7FB9);
+}
+
+    .detailsButton:hover {
+        background-color: #3F7FB9;
+    }
+
+.deleteButton {
+    background-image: linear-gradient(to bottom, #E7C6C8, #D62D3A);
+}
+
+    .deleteButton:hover {
+        background-color: #D62D3A;
+    }
+
+
+
+.addButton {
+    background-image: linear-gradient(to bottom, #869EB1, #4A6377);
+}
+
+    .addButton:hover {
+        background-color: #4A6377;
+    }
+
+.submitButton {
+    background-image: linear-gradient(to bottom, #95E2DC, #137971);
+}
+
+    .submitButton:hover {
+        background-color: #137971;
+    }
+
+.resetButton {
+    background-image: linear-gradient(to bottom, #9EC0DF, #3F7FB9);
+}
+
+    .resetButton:hover {
+        background-color: #3F7FB9;
+    }
+
+.chooseButton {
+    background-image: linear-gradient(to bottom, #EEDFB0, #AF8600);
+}
+
+    .chooseButton:hover {
+        background-color: #AF8600;
+    }
+
+    .editButton, .editButton:hover,
+    .createButton, .createButton:hover,
+    .detailsButton, .detailsButton:hover,
+    .deleteButton, .deleteButton:hover,
+    .addButton, .addButton:hover,
+    .submitButton, .submitButton:hover,
+    .resetButton, .resetButton:hover,
+    .chooseButton, .chooseButton:hover {
+        color: #EBFF00;
+    }

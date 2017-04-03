@@ -1,0 +1,861 @@
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\SuperCommunity.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\SuperCommunity.pdb
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\Antlr3.Runtime.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.AspNet.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.Core.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\EntityFramework.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\Microsoft.Data.Edm.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\Microsoft.Data.OData.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\Newtonsoft.Json.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\System.Net.Http.Formatting.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\System.Spatial.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\System.Web.Helpers.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\System.Web.Http.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\System.Web.Http.OData.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\System.Web.Http.WebHost.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\System.Web.Mvc.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\System.Web.Optimization.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\System.Web.Razor.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Deployment.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Razor.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\WebGrease.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\WebMatrix.Data.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\WebMatrix.WebData.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\EntityFramework.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\Newtonsoft.Json.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\System.Net.Http.Formatting.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\System.Web.Helpers.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\System.Web.Http.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\System.Web.Http.WebHost.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\System.Web.Mvc.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\System.Web.Razor.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Deployment.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Razor.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\WebMatrix.Data.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\WebMatrix.WebData.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.AspNet.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.Core.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\System.Web.Http.OData.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\Microsoft.Data.Edm.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\Microsoft.Data.OData.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\System.Spatial.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\de\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\es\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\it\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\de\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\es\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\fr\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\it\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\ja\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\ko\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\ru\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\de\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\es\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\fr\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\it\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\ja\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\ko\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\ru\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\zh-Hans\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\bin\zh-Hant\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.csprojResolveAssemblyReference.cache
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.pdb
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\SuperCommunity.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\SuperCommunity.pdb
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\Antlr3.Runtime.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.AspNet.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.Core.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\EntityFramework.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\Microsoft.Data.Edm.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\Microsoft.Data.OData.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\Newtonsoft.Json.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Net.Http.Formatting.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Spatial.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Helpers.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Http.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Http.OData.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Http.WebHost.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Mvc.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Optimization.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Razor.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Deployment.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Razor.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\WebGrease.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\WebMatrix.Data.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\WebMatrix.WebData.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\EntityFramework.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\Newtonsoft.Json.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Net.Http.Formatting.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Helpers.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Http.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Http.WebHost.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Mvc.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Razor.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Deployment.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Razor.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\WebMatrix.Data.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\WebMatrix.WebData.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.AspNet.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.Core.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Http.OData.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\Microsoft.Data.Edm.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\Microsoft.Data.OData.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Spatial.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\de\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\es\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\it\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\de\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\es\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\fr\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\it\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\ja\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\ko\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\ru\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\de\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\es\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\fr\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\it\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\ja\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\ko\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\ru\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\zh-Hans\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\bin\zh-Hant\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.csprojResolveAssemblyReference.cache
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.pdb
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.csprojResolveAssemblyReference.cache
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.pdb
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\SuperCommunity.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\SuperCommunity.pdb
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\Antlr3.Runtime.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.AspNet.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.Core.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\EntityFramework.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\Microsoft.Data.Edm.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\Microsoft.Data.OData.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\Newtonsoft.Json.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Net.Http.Formatting.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Spatial.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Helpers.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Http.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Http.OData.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Http.WebHost.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Mvc.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Optimization.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Razor.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Deployment.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Razor.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\WebGrease.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\WebMatrix.Data.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\WebMatrix.WebData.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\EntityFramework.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\Newtonsoft.Json.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Net.Http.Formatting.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Helpers.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Http.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Http.WebHost.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Mvc.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Razor.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Deployment.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Razor.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\WebMatrix.Data.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\WebMatrix.WebData.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.AspNet.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.Core.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Http.OData.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\Microsoft.Data.Edm.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\Microsoft.Data.OData.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Spatial.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\de\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\es\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\it\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\de\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\es\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\fr\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\it\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\ja\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\ko\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\ru\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\de\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\es\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\fr\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\it\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\ja\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\ko\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\ru\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\zh-Hans\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\zh-Hant\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\SuperCommunity.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\SuperCommunity.pdb
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\Antlr3.Runtime.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.AspNet.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.Core.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\EntityFramework.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\Microsoft.Data.Edm.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\Microsoft.Data.OData.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\Newtonsoft.Json.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Net.Http.Formatting.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Spatial.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Helpers.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Http.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Http.OData.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Http.WebHost.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Mvc.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Optimization.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Razor.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Deployment.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Razor.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\WebGrease.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\WebMatrix.Data.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\WebMatrix.WebData.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\EntityFramework.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\Newtonsoft.Json.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Net.Http.Formatting.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Helpers.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Http.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Http.WebHost.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Mvc.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Razor.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Deployment.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Razor.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\WebMatrix.Data.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\WebMatrix.WebData.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.AspNet.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.Core.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Web.Http.OData.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\Microsoft.Data.Edm.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\Microsoft.Data.OData.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\System.Spatial.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\de\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\es\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\it\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\de\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\es\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\fr\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\it\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\ja\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\ko\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\ru\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\de\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\es\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\fr\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\it\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\ja\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\ko\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\ru\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\zh-Hans\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\bin\zh-Hant\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.csprojResolveAssemblyReference.cache
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.pdb
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\SuperCommunity.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\SuperCommunity.pdb
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\Antlr3.Runtime.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.AspNet.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.Core.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\EntityFramework.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\Microsoft.Data.Edm.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\Microsoft.Data.OData.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\Newtonsoft.Json.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\System.Net.Http.Formatting.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\System.Spatial.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\System.Web.Helpers.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\System.Web.Http.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\System.Web.Http.OData.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\System.Web.Http.WebHost.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\System.Web.Mvc.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\System.Web.Optimization.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\System.Web.Razor.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Deployment.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Razor.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\WebGrease.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\WebMatrix.Data.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\WebMatrix.WebData.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\EntityFramework.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\Newtonsoft.Json.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\System.Net.Http.Formatting.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\System.Web.Helpers.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\System.Web.Http.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\System.Web.Http.WebHost.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\System.Web.Mvc.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\System.Web.Razor.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Deployment.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Razor.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\WebMatrix.Data.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\WebMatrix.WebData.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.AspNet.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.Core.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\System.Web.Http.OData.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\Microsoft.Data.Edm.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\Microsoft.Data.OData.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\System.Spatial.xml
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\de\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\es\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\it\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\de\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\es\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\fr\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\it\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\ja\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\ko\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\ru\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\de\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\es\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\fr\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\it\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\ja\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\ko\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\ru\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\zh-Hans\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\bin\zh-Hant\System.Spatial.resources.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.csprojResolveAssemblyReference.cache
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.dll
+D:\ASP_.NET Developer\Projects\SuperCommunity(12)\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.pdb
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\SuperCommunity.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\SuperCommunity.pdb
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\Antlr3.Runtime.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.AspNet.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.Core.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\EntityFramework.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\Microsoft.Data.Edm.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\Microsoft.Data.OData.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\Microsoft.Web.Infrastructure.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\Newtonsoft.Json.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\System.Net.Http.Formatting.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\System.Spatial.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\System.Web.Helpers.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\System.Web.Http.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\System.Web.Http.OData.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\System.Web.Http.WebHost.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\System.Web.Mvc.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\System.Web.Optimization.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\System.Web.Razor.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Deployment.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Razor.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\WebGrease.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\WebMatrix.Data.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\WebMatrix.WebData.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\EntityFramework.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\Newtonsoft.Json.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\System.Net.Http.Formatting.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\System.Web.Helpers.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\System.Web.Http.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\System.Web.Http.WebHost.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\System.Web.Mvc.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\System.Web.Razor.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Deployment.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Razor.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\WebMatrix.Data.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\WebMatrix.WebData.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.AspNet.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.Core.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\System.Web.Http.OData.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\Microsoft.Data.Edm.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\Microsoft.Data.OData.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\System.Spatial.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\de\Microsoft.Data.Edm.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\es\Microsoft.Data.Edm.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\it\Microsoft.Data.Edm.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\de\Microsoft.Data.OData.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\es\Microsoft.Data.OData.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\fr\Microsoft.Data.OData.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\it\Microsoft.Data.OData.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\ja\Microsoft.Data.OData.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\ko\Microsoft.Data.OData.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\ru\Microsoft.Data.OData.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\de\System.Spatial.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\es\System.Spatial.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\fr\System.Spatial.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\it\System.Spatial.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\ja\System.Spatial.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\ko\System.Spatial.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\ru\System.Spatial.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\zh-Hans\System.Spatial.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\bin\zh-Hant\System.Spatial.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.csprojResolveAssemblyReference.cache
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(13)\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.pdb
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.pdb
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\SuperCommunity.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\SuperCommunity.pdb
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\Antlr3.Runtime.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.AspNet.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.Core.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\EntityFramework.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\Microsoft.Data.Edm.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\Microsoft.Data.OData.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\Microsoft.Web.Infrastructure.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\Newtonsoft.Json.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\System.Net.Http.Formatting.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\System.Spatial.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\System.Web.Helpers.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\System.Web.Http.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\System.Web.Http.OData.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\System.Web.Http.WebHost.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\System.Web.Mvc.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\System.Web.Optimization.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\System.Web.Razor.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Deployment.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Razor.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\WebGrease.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\WebMatrix.Data.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\WebMatrix.WebData.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\EntityFramework.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\Newtonsoft.Json.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\System.Net.Http.Formatting.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\System.Web.Helpers.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\System.Web.Http.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\System.Web.Http.WebHost.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\System.Web.Mvc.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\System.Web.Razor.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Deployment.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Razor.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\WebMatrix.Data.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\WebMatrix.WebData.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.AspNet.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.Core.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\System.Web.Http.OData.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\Microsoft.Data.Edm.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\Microsoft.Data.OData.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\System.Spatial.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\de\Microsoft.Data.Edm.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\es\Microsoft.Data.Edm.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\it\Microsoft.Data.Edm.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\de\Microsoft.Data.OData.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\es\Microsoft.Data.OData.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\fr\Microsoft.Data.OData.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\it\Microsoft.Data.OData.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\ja\Microsoft.Data.OData.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\ko\Microsoft.Data.OData.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\ru\Microsoft.Data.OData.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\de\System.Spatial.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\es\System.Spatial.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\fr\System.Spatial.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\it\System.Spatial.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\ja\System.Spatial.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\ko\System.Spatial.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\ru\System.Spatial.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\zh-Hans\System.Spatial.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\bin\zh-Hant\System.Spatial.resources.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(14)\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.csprojResolveAssemblyReference.cache
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\SuperCommunity.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\SuperCommunity.pdb
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.AspNet.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.Core.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\EntityFramework.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\Newtonsoft.Json.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\System.Net.Http.Formatting.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\System.Web.Http.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\System.Web.Http.WebHost.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\System.Web.Mvc.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\System.Web.Optimization.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Razor.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\WebMatrix.WebData.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\EntityFramework.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\Newtonsoft.Json.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\System.Net.Http.Formatting.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\System.Web.Http.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\System.Web.Http.WebHost.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\System.Web.Mvc.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Razor.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\WebMatrix.WebData.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.AspNet.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.Core.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.csprojResolveAssemblyReference.cache
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(20)\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.pdb
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\SuperCommunity.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\SuperCommunity.pdb
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.AspNet.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\EntityFramework.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\System.Web.Http.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\System.Web.Http.WebHost.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\System.Web.Mvc.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\System.Web.Optimization.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Razor.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\WebMatrix.WebData.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\System.Net.Http.Formatting.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\Newtonsoft.Json.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.Core.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\EntityFramework.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\System.Web.Http.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\System.Web.Http.WebHost.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\System.Web.Mvc.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Razor.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\WebMatrix.WebData.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.AspNet.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\System.Net.Http.Formatting.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\Newtonsoft.Json.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.Core.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.csprojResolveAssemblyReference.cache
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.pdb
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\SuperCommunity.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\SuperCommunity.pdb
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.AspNet.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\EntityFramework.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\System.Web.Http.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\System.Web.Http.WebHost.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\System.Web.Mvc.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\System.Web.Optimization.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Razor.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\WebMatrix.WebData.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\System.Net.Http.Formatting.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\Newtonsoft.Json.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.Core.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\EntityFramework.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\System.Web.Http.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\System.Web.Http.WebHost.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\System.Web.Mvc.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Razor.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\WebMatrix.WebData.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.AspNet.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\System.Net.Http.Formatting.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\Newtonsoft.Json.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.Core.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.csprojResolveAssemblyReference.cache
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(36)(Ajax)\SuperCommunity(35)(Перед добавлением Ajax)\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.pdb
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.csprojResolveAssemblyReference.cache
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\SuperCommunity.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\SuperCommunity.pdb
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.AspNet.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\EntityFramework.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\System.Web.Http.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\System.Web.Http.WebHost.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\System.Web.Mvc.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\System.Web.Optimization.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Razor.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\WebMatrix.WebData.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\System.Net.Http.Formatting.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\Newtonsoft.Json.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.Core.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\EntityFramework.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\System.Web.Http.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\System.Web.Http.WebHost.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\System.Web.Mvc.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Razor.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\WebMatrix.WebData.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.AspNet.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\System.Net.Http.Formatting.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\Newtonsoft.Json.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.Core.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.pdb
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\SuperCommunity.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\SuperCommunity.pdb
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.AspNet.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\EntityFramework.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\System.Web.Http.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\System.Web.Http.WebHost.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\System.Web.Mvc.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\System.Web.Optimization.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Razor.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\WebMatrix.WebData.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\System.Net.Http.Formatting.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\Newtonsoft.Json.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.Core.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\EntityFramework.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\System.Web.Http.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\System.Web.Http.WebHost.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\System.Web.Mvc.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Razor.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\WebMatrix.WebData.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.AspNet.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\System.Net.Http.Formatting.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\Newtonsoft.Json.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.Core.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.csprojResolveAssemblyReference.cache
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(46)(На тестирование)\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.pdb
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\SuperCommunity.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\SuperCommunity.pdb
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.AspNet.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\EntityFramework.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\System.Web.Http.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\System.Web.Http.WebHost.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\System.Web.Mvc.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\System.Web.Optimization.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Razor.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\WebMatrix.WebData.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\System.Net.Http.Formatting.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\Newtonsoft.Json.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.Core.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\EntityFramework.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\System.Web.Http.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\System.Web.Http.WebHost.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\System.Web.Mvc.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Razor.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\WebMatrix.WebData.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.AspNet.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\System.Net.Http.Formatting.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\Newtonsoft.Json.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.Core.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.csprojResolveAssemblyReference.cache
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(48)(Исправлено пара багов)\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.pdb
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\SuperCommunity.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\SuperCommunity.pdb
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.AspNet.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\EntityFramework.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\System.Web.Http.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\System.Web.Http.WebHost.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\System.Web.Mvc.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\System.Web.Optimization.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Razor.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\WebMatrix.WebData.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\System.Net.Http.Formatting.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\Newtonsoft.Json.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.Core.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\EntityFramework.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\System.Web.Http.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\System.Web.Http.WebHost.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\System.Web.Mvc.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\System.Web.WebPages.Razor.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\WebMatrix.WebData.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.AspNet.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\System.Net.Http.Formatting.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\Newtonsoft.Json.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.Core.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OAuth.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\bin\DotNetOpenAuth.OpenId.xml
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.csprojResolveAssemblyReference.cache
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.dll
+D:\opt\Projects\ASP .NET Developer\SuperCommunity(50)(Стили)\SuperCommunity\SuperCommunity\obj\Debug\SuperCommunity.pdb

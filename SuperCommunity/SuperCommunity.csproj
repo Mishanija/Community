@@ -1,0 +1,465 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{390F44BD-F1F4-45C5-B901-79BD51ED37E2}</ProjectGuid>
+    <ProjectTypeGuids>{E3E379DF-F4C6-4180-9B81-6769533ABE47};{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SuperCommunity</RootNamespace>
+    <AssemblyName>SuperCommunity</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <MvcBuildViews>false</MvcBuildViews>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Abstractions" />
+    <Reference Include="System.Web.Routing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.5.0.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http">
+    </Reference>
+    <Reference Include="System.Web.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Core.4.0.20710.0\lib\net40\System.Web.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http.WebHost, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.WebHost.4.0.20710.0\lib\net40\System.Web.Http.WebHost.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.4.0.20710.0\lib\net40\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Optimization">
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.1.0.0\lib\net40\System.Web.Optimization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Razor, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.WebPages.OAuth, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.OAuth.2.0.20710.0\lib\net40\Microsoft.Web.WebPages.OAuth.dll</HintPath>
+    </Reference>
+    <Reference Include="WebMatrix.WebData, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.WebData.2.0.20710.0\lib\net40\WebMatrix.WebData.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetOpenAuth.AspNet, Version=4.1.0.0, Culture=neutral, PublicKeyToken=2780ccd10d57b246, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\DotNetOpenAuth.AspNet.4.1.4.12333\lib\net45-full\DotNetOpenAuth.AspNet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Start\AuthConfig.cs" />
+    <Compile Include="App_Start\BundleConfig.cs" />
+    <Compile Include="App_Start\FilterConfig.cs" />
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\AlbumController.cs" />
+    <Compile Include="Controllers\FormController.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\PictureController.cs" />
+    <Compile Include="Controllers\PictureTagController.cs" />
+    <Compile Include="Controllers\TagController.cs" />
+    <Compile Include="Controllers\UserController.cs" />
+    <Compile Include="Controllers\VoteController.cs" />
+    <Compile Include="DAO\Albums\Crud\CreateAlbumDao.cs" />
+    <Compile Include="DAO\Albums\Crud\DeleteAlbumDao.cs" />
+    <Compile Include="DAO\Albums\Crud\FindAlbumDao.cs" />
+    <Compile Include="DAO\Albums\FindUsersAlbumsDao.cs" />
+    <Compile Include="DAO\Albums\Crud\UpdateAlbumDao.cs" />
+    <Compile Include="DAO\Crud\CreateDao.cs" />
+    <Compile Include="DAO\Crud\DataEntitiesDao.cs" />
+    <Compile Include="DAO\Crud\DeleteDao.cs" />
+    <Compile Include="DAO\Crud\FindDao.cs" />
+    <Compile Include="DAO\Crud\QueryDao.cs" />
+    <Compile Include="DAO\Crud\UpdateDao.cs" />
+    <Compile Include="DAO\IDao.cs" />
+    <Compile Include="DAO\Forms\Crud\CreateFormDao.cs" />
+    <Compile Include="DAO\Forms\Crud\FindFormDao.cs" />
+    <Compile Include="DAO\Forms\Crud\FormDeleteDao.cs" />
+    <Compile Include="DAO\Forms\Crud\UpdateFormDao.cs" />
+    <Compile Include="DAO\Other\UserPictureDao.cs" />
+    <Compile Include="DAO\Pictures\Crud\PictureCreateDao.cs" />
+    <Compile Include="DAO\Pictures\Crud\PictureDeleteDao.cs" />
+    <Compile Include="DAO\Pictures\Crud\PictureFindDao.cs" />
+    <Compile Include="DAO\Pictures\Crud\PictureUpdateDao.cs" />
+    <Compile Include="DAO\PictureTags\Crud\PictureTagCreateDao.cs" />
+    <Compile Include="DAO\PictureTags\Crud\PictureTagDeleteDao.cs" />
+    <Compile Include="DAO\PictureTags\Crud\PictureTagFindDao.cs" />
+    <Compile Include="DAO\Tags\Crud\TagCreateDao.cs" />
+    <Compile Include="DAO\Tags\Crud\TagDeleteDao.cs" />
+    <Compile Include="DAO\Tags\Crud\TagFindDao.cs" />
+    <Compile Include="DAO\Tags\Crud\TagUpdateDao.cs" />
+    <Compile Include="DAO\UserInfo\Crud\CreateUserInfoDao.cs" />
+    <Compile Include="DAO\UserProfiles\Crud\FindUserProfileDao.cs" />
+    <Compile Include="DAO\User\Crud\FindUserDao.cs" />
+    <Compile Include="DAO\User\Crud\UpdateUserDao.cs" />
+    <Compile Include="DAO\Votes\Crud\PictureVotesDao.cs" />
+    <Compile Include="DAO\Votes\Crud\VoteDao.cs" />
+    <Compile Include="DAO\Votes\Crud\VoteFindDao.cs" />
+    <Compile Include="DAO\Votes\VoteOwnerDao.cs" />
+    <Compile Include="Filters\InitializeSimpleMembershipAttribute.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="HtmlHelpers\BuildingBlocks\AjaxLinkBuilder.cs" />
+    <Compile Include="HtmlHelpers\BuildingBlocks\SlideShowScriptBuilder.cs" />
+    <Compile Include="HtmlHelpers\DataObjects\AjaxPaginationLinkRouteValues.cs" />
+    <Compile Include="HtmlHelpers\DataObjects\AjaxLinksDataObject.cs" />
+    <Compile Include="HtmlHelpers\BuildingBlocks\AjaxNavigationLinks.cs" />
+    <Compile Include="HtmlHelpers\BuildingBlocks\GallerySlider.cs" />
+    <Compile Include="HtmlHelpers\DataObjects\AlbumRouteValues.cs" />
+    <Compile Include="HtmlHelpers\DataObjects\GalleryRouteValues.cs" />
+    <Compile Include="HtmlHelpers\Solutions\AlbumSlideShow.cs" />
+    <Compile Include="HtmlHelpers\Solutions\AnimateContacts.cs" />
+    <Compile Include="HtmlHelpers\Solutions\GallerySlideshow.cs" />
+    <Compile Include="HtmlHelpers\BuildingBlocks\LikesHelper.cs" />
+    <Compile Include="HtmlHelpers\Pagination.cs" />
+    <Compile Include="HtmlHelpers\BuildingBlocks\ImageLinkBuilder.cs" />
+    <Compile Include="HtmlHelpers\Solutions\TagCloud.cs" />
+    <Compile Include="Models\AccountModels.cs" />
+    <Compile Include="Models\Entities\DislikeChangeModel.cs" />
+    <Compile Include="Models\Entities\DislikeModel.cs" />
+    <Compile Include="Models\Entities\ImageLikesModel.cs" />
+    <Compile Include="Models\Entities\LikeChangeModel.cs" />
+    <Compile Include="Models\Entities\LikeModel.cs" />
+    <Compile Include="Models\Entities\VotesModel.cs" />
+    <Compile Include="Models\PageModels\ContactModel.cs" />
+    <Compile Include="Models\PageModels\GalleryModel.cs" />
+    <Compile Include="Models\Entities\ImageReadModel.cs" />
+    <Compile Include="Models\PageModels\MyPicturesModel.cs" />
+    <Compile Include="Models\PageModels\EditTagsModel.cs" />
+    <Compile Include="Models\PageModels\FormModel.cs" />
+    <Compile Include="Models\Entities\ImageEditModel.cs" />
+    <Compile Include="Models\Entities\AlbumEditModel.cs" />
+    <Compile Include="Models\PageModels\UserAlbumsModel.cs" />
+    <Compile Include="Models\Interfaces\IEditModel.cs" />
+    <Compile Include="Models\Interfaces\IReadModel.cs" />
+    <Compile Include="DAO\Pictures\Pagination\UserAlbumsPaginationFinder.cs" />
+    <Compile Include="Models\Support\Contact.cs" />
+    <Compile Include="Models\TagCloudModel.cs" />
+    <Compile Include="Service\Entities\Albums\Crud\AlbumDeleteService.cs" />
+    <Compile Include="Service\Entities\Pictures\Crud\PictureDeleteService.cs" />
+    <Compile Include="Service\Entities\Pictures\Pagination\UserAlbumsPaginationService.cs" />
+    <Compile Include="Service\Entities\Tags\DeleteTagService.cs" />
+    <Compile Include="Service\Entities\Tags\TagModel.cs" />
+    <Compile Include="Service\Entities\Votes\VoteHonestService.cs" />
+    <Compile Include="Service\Entities\Votes\VoteService.cs" />
+    <Compile Include="Service\Factoryes\DislikeModelFactory.cs" />
+    <Compile Include="Service\Factoryes\LikeModelFactory.cs" />
+    <Compile Include="Service\Factoryes\shared\AlbumEditModelBuilder.cs" />
+    <Compile Include="Service\Factoryes\shared\ImagePaginationBuilder.cs" />
+    <Compile Include="Service\Factoryes\TagCloudModelFactory.cs" />
+    <Compile Include="Service\Factoryes\UserAlbumsModelFactory.cs" />
+    <Compile Include="Models\Interfaces\IDataModel.cs" />
+    <Compile Include="Models\Interfaces\IModel.cs" />
+    <Compile Include="Models\Entities\SelectTag.cs" />
+    <Compile Include="Models\Interfaces\IPageModel.cs" />
+    <Compile Include="Models\Membership\Connection.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Connection.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\PaginationModel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service\Entities\Account\AccountAccessService.cs" />
+    <Compile Include="Service\Entities\Account\AccountConfirmationService.cs" />
+    <Compile Include="Service\Entities\Account\AccountRegistrationService.cs" />
+    <Compile Include="Service\Entities\Account\AccountValidationService.cs" />
+    <Compile Include="Service\Configuration\Config.cs" />
+    <Compile Include="Service\Configuration\EmailSettings.cs" />
+    <Compile Include="Service\Entities\Pictures\IO\PictureUploadService.cs" />
+    <Compile Include="Service\IO\Counter.cs" />
+    <Compile Include="Service\Email\EmailSender.cs" />
+    <Compile Include="Service\Entities\Albums\Request\AlbumRequestService.cs" />
+    <Compile Include="Service\Factoryes\EditTagsModelFactory.cs" />
+    <Compile Include="Service\Factoryes\GalleryModelFactory.cs" />
+    <Compile Include="Service\Factoryes\MyPicturesModelFactory.cs" />
+    <Compile Include="Service\Factoryes\FormModelFactory.cs" />
+    <Compile Include="Service\Entities\Forms\FormComplexFindService.cs" />
+    <Compile Include="Service\Entities\Forms\FormFactory.cs" />
+    <Compile Include="Service\Entities\Forms\Request\FormRequestService.cs" />
+    <Compile Include="DAO\Pictures\Pagination\GalleryPaginationFinder.cs" />
+    <Compile Include="Service\Entities\Pictures\Pagination\GalleryPaginationService.cs" />
+    <Compile Include="Service\IO\FileUploader.cs" />
+    <Compile Include="Service\IO\UploadFileService.cs" />
+    <Compile Include="Service\Pagination\PaginationFinder.cs" />
+    <Compile Include="Service\Pagination\PaginationService.cs" />
+    <Compile Include="Service\Entities\Pictures\Request\PictureRequestService.cs" />
+    <Compile Include="Service\Entities\PictureTags\PictureTagEditProcessor.cs" />
+    <Compile Include="Service\Factoryes\ModelFactory.cs" />
+    <Compile Include="Service\Request\RequestService.cs" />
+    <Compile Include="Service\Request\Security.cs" />
+    <Compile Include="Service\Entities\Forms\FormConvertService.cs" />
+    <Compile Include="Service\IService.cs" />
+    <Compile Include="Service\IO\ParamReader.cs" />
+    <Compile Include="Service\Email\RegistrationEmail.cs" />
+    <Compile Include="Service\Entities\Pictures\IO\PicturePathService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\css\ie.css" />
+    <Content Include="Content\css\masterPages\bootstrap.css" />
+    <Content Include="Content\css\masterPages\kwicks-slider.css" />
+    <Content Include="Content\css\masterPages\responsive.css" />
+    <Content Include="Content\css\masterPages\style.css" />
+    <Content Include="Content\css\pages\contactsAnimate.css" />
+    <Content Include="Content\css\pages\likes.css" />
+    <Content Include="Content\css\pages\tagCloud.css" />
+    <Content Include="Content\css\shared\buttons.css" />
+    <Content Include="Content\css\shared\ImageStyles.css" />
+    <Content Include="Content\css\shared\inputs.css" />
+    <Content Include="Content\css\shared\touchTouch.css" />
+    <Content Include="Content\img\arrows.png" />
+    <Content Include="Content\img\bg-content.jpg" />
+    <Content Include="Content\img\image-blank.png" />
+    <Content Include="Content\img\loader.gif" />
+    <Content Include="Content\img\magnifier.png" />
+    <Content Include="Content\img\next.png" />
+    <Content Include="Content\img\prev.png" />
+    <Content Include="Content\img\slide-1.jpg" />
+    <Content Include="Content\img\slide-2.jpg" />
+    <Content Include="Content\img\slide-3.jpg" />
+    <Content Include="Content\img\slide-4.jpg" />
+    <Content Include="Content\img\slide-5.jpg" />
+    <Content Include="Content\img\spinner.gif" />
+    <Content Include="Content\js\bootstrap.js" />
+    <Content Include="Content\js\forms.js" />
+    <Content Include="Content\js\jquery.easing.1.3.js" />
+    <Content Include="Content\js\jquery.flexslider-min.js" />
+    <Content Include="Content\js\jquery.js" />
+    <Content Include="Content\js\jquery.kwicks-1.5.1.js" />
+    <Content Include="Content\js\jquery.preloader.js" />
+    <Content Include="Content\js\pages\AnimateContacts.js" />
+    <Content Include="Content\js\touchTouch.jquery.js" />
+    <Content Include="Documents\Документация\2 - Dao\NewCrud.txt" />
+    <Content Include="Documents\Документация\1 - Model\NewModel.txt" />
+    <Content Include="Documents\Документация\3 - Service\NewIO.txt" />
+    <Content Include="Documents\Документация\3 - Service\NewPagination.txt" />
+    <Content Include="Documents\Документация\3 - Service\NewRequest.txt" />
+    <Content Include="Documents\Текущие задачи.txt" />
+    <Content Include="favicon.ico" />
+    <Content Include="Global.asax" />
+    <Content Include="Images\Album.jpg" />
+    <Content Include="Images\Bars\albums.jpg" />
+    <Content Include="Images\Bars\CloudTags.jpg" />
+    <Content Include="Images\Bars\community.jpg" />
+    <Content Include="Images\Bars\promotion.jpg" />
+    <Content Include="Images\delete.jpg" />
+    <Content Include="Images\Form.jpg" />
+    <Content Include="Images\MyContacts\Box\box-back.png" />
+    <Content Include="Images\MyContacts\Box\box-front.png" />
+    <Content Include="Images\MyContacts\icons\mobilePhone.png" />
+    <Content Include="Images\MyContacts\icons\email.png" />
+    <Content Include="Images\MyContacts\icons\phone.png" />
+    <Content Include="Images\MyContacts\icons\Skype-icon2.png" />
+    <Content Include="Images\MyContacts\icons\vkontakte-logo.png" />
+    <Content Include="Images\NoPhoto.jpg" />
+    <Content Include="Images\Bars\Photos.jpg" />
+    <Content Include="Images\smile.jpg" />
+    <Content Include="Images\Strange.jpg" />
+    <Content Include="Images\Top5\1.jpg" />
+    <Content Include="Images\Top5\2.jpg" />
+    <Content Include="Images\Top5\3.jpg" />
+    <Content Include="Images\Top5\4.jpg" />
+    <Content Include="Images\Top5\5.jpg" />
+    <Content Include="Images\UserPhotos\NoPhoto.jpg" />
+    <EntityDeploy Include="Models\Membership\Connection.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Connection.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <Content Include="Images\votes\dislike.png" />
+    <Content Include="Images\votes\honestVotes.jpeg" />
+    <Content Include="Images\votes\likeBox-dark.png" />
+    <Content Include="Images\votes\like.jpg" />
+    <Content Include="Images\votes\likeBox-light.png" />
+    <Content Include="Images\votes\ownerPanel.jpg" />
+    <Content Include="Models\Membership\Connection.edmx.diagram">
+      <DependentUpon>Connection.edmx</DependentUpon>
+    </Content>
+    <None Include="Scripts\jquery-1.8.2.intellisense.js" />
+    <Content Include="Images\Keys.jpg" />
+    <Content Include="Images\Lock.png" />
+    <Content Include="Images\Pages\Background.jpg" />
+    <Content Include="Images\Pages\good people.jpg" />
+    <Content Include="Images\Pages\marble.jpg" />
+    <Content Include="Images\Pages\Reclama.jpg" />
+    <Content Include="Images\uploadPhotos.png" />
+    <Content Include="Scripts\jquery-1.8.2.js" />
+    <Content Include="Scripts\jquery-1.8.2.min.js" />
+    <None Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery-ui-1.8.24.js" />
+    <Content Include="Scripts\jquery-ui-1.8.24.min.js" />
+    <Content Include="Scripts\jquery.unobtrusive-ajax.js" />
+    <Content Include="Scripts\jquery.unobtrusive-ajax.min.js" />
+    <Content Include="Scripts\jquery.validate.js" />
+    <Content Include="Scripts\jquery.validate.min.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="Scripts\knockout-2.2.0.debug.js" />
+    <Content Include="Scripts\knockout-2.2.0.js" />
+    <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="Views\Account\AlreadyRegistered.aspx" />
+    <Content Include="Views\Account\ConfirmationFailed.aspx" />
+    <Content Include="Views\Account\ConfirmationSuccess.aspx" />
+    <Content Include="Views\Account\RegisterStepTwo.aspx" />
+    <Content Include="Views\Album\AlbumPage.ascx" />
+    <Content Include="Views\Album\Create.aspx" />
+    <Content Include="Views\Album\Delete.aspx" />
+    <Content Include="Views\Album\Details.aspx" />
+    <Content Include="Views\Album\Edit.aspx" />
+    <Content Include="Views\Album\Index.aspx" />
+    <Content Include="Views\Form\Create.aspx" />
+    <Content Include="Views\Form\Delete.aspx" />
+    <Content Include="Views\Form\Details.aspx" />
+    <Content Include="Views\Form\Edit.aspx" />
+    <Content Include="Views\Form\_Form.ascx" />
+    <Content Include="Views\PictureTag\EditTags.aspx" />
+    <Content Include="Views\PictureTag\MyPictures.aspx" />
+    <Content Include="Views\Shared\ViewPicture.ascx" />
+    <Content Include="Views\Home\Promotion.aspx" />
+    <Content Include="Views\Picture\Delete.aspx" />
+    <Content Include="Views\Picture\Details.aspx" />
+    <Content Include="Views\Picture\Edit.aspx" />
+    <Content Include="Views\Shared\PictureInfo.ascx" />
+    <Content Include="Views\Tag\Create.aspx" />
+    <Content Include="Views\Tag\Delete.aspx" />
+    <Content Include="Views\Tag\Details.aspx" />
+    <Content Include="Views\Tag\Edit.aspx" />
+    <Content Include="Views\Tag\Index.aspx" />
+    <Content Include="Views\User\AjaxGallery.ascx" />
+    <Content Include="Views\User\EditEffects.aspx" />
+    <Content Include="Views\User\Gallery.aspx" />
+    <Content Include="Views\User\Index.aspx" />
+    <Content Include="Views\User\UploadPhotos.aspx" />
+    <Content Include="Views\Vote\PictureDislike.ascx" />
+    <Content Include="Views\Vote\PictureDislikeChange.ascx" />
+    <Content Include="Views\Vote\PictureLike.ascx" />
+    <Content Include="Views\Vote\PictureLikeChange.ascx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Scripts\_references.js" />
+    <Content Include="Views\Account\_ChangePasswordPartial.aspx" />
+    <Content Include="Views\Account\_ExternalLoginsListPartial.aspx" />
+    <Content Include="Views\Account\_RemoveExternalLoginsPartial.aspx" />
+    <Content Include="Views\Account\_SetPasswordPartial.aspx" />
+    <Content Include="Views\Account\Login.aspx" />
+    <Content Include="Views\Account\Manage.aspx" />
+    <Content Include="Views\Account\Register.aspx" />
+    <Content Include="Views\Account\ExternalLoginFailure.aspx" />
+    <Content Include="Views\Account\ExternalLoginConfirmation.aspx" />
+    <Content Include="Views\Home\About.aspx" />
+    <Content Include="Views\Home\Index.aspx" />
+    <Content Include="Views\Shared\Error.aspx" />
+    <Content Include="Views\Shared\_LoginPartial.aspx" />
+    <Content Include="Views\Shared\Site.Master" />
+    <Content Include="Views\Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="Documents\Документация\4 - Web\" />
+    <Folder Include="Service\Entities\UserInfo\" />
+    <Folder Include="Service\Entities\UserProfiles\" />
+    <Folder Include="Service\Entities\User\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\User\App_LocalResources\Index.aspx.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\User\App_LocalResources\Index.aspx.ru.resx" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <Target Name="MvcBuildViews" AfterTargets="AfterBuild" Condition="'$(MvcBuildViews)'=='true'">
+    <AspNetCompiler VirtualPath="temp" PhysicalPath="$(WebProjectOutputDir)" />
+  </Target>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>0</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:1099/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target> -->
+</Project>

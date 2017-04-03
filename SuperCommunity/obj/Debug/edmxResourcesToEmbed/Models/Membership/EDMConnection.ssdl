@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="ModelStoreContainer">
+    <EntitySet Name="Albums" EntityType="Model.Store.Albums" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="InfoUsers" EntityType="Model.Store.InfoUsers" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Pictures" EntityType="Model.Store.Pictures" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PictureTags" EntityType="Model.Store.PictureTags" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Tags" EntityType="Model.Store.Tags" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="UserProfile" EntityType="Model.Store.UserProfile" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Votes" EntityType="Model.Store.Votes" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="webpages_Membership" EntityType="Model.Store.webpages_Membership" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="webpages_OAuthMembership" EntityType="Model.Store.webpages_OAuthMembership" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="webpages_Roles" EntityType="Model.Store.webpages_Roles" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="webpages_UsersInRoles" EntityType="Model.Store.webpages_UsersInRoles" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_Albums_ToUsers" Association="Model.Store.FK_Albums_ToUsers">
+      <End Role="UserProfile" EntitySet="UserProfile" />
+      <End Role="Albums" EntitySet="Albums" />
+    </AssociationSet>
+    <AssociationSet Name="FK_InfoUsers_ToUserprofile" Association="Model.Store.FK_InfoUsers_ToUserprofile">
+      <End Role="UserProfile" EntitySet="UserProfile" />
+      <End Role="InfoUsers" EntitySet="InfoUsers" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Pictures_ToAlbums" Association="Model.Store.FK_Pictures_ToAlbums">
+      <End Role="Albums" EntitySet="Albums" />
+      <End Role="Pictures" EntitySet="Pictures" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PictureTags_ToPictures" Association="Model.Store.FK_PictureTags_ToPictures">
+      <End Role="Pictures" EntitySet="Pictures" />
+      <End Role="PictureTags" EntitySet="PictureTags" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PictureTags_ToTags" Association="Model.Store.FK_PictureTags_ToTags">
+      <End Role="Tags" EntitySet="Tags" />
+      <End Role="PictureTags" EntitySet="PictureTags" />
+    </AssociationSet>
+    <AssociationSet Name="fk_RoleId" Association="Model.Store.fk_RoleId">
+      <End Role="webpages_Roles" EntitySet="webpages_Roles" />
+      <End Role="webpages_UsersInRoles" EntitySet="webpages_UsersInRoles" />
+    </AssociationSet>
+    <AssociationSet Name="fk_UserId" Association="Model.Store.fk_UserId">
+      <End Role="UserProfile" EntitySet="UserProfile" />
+      <End Role="webpages_UsersInRoles" EntitySet="webpages_UsersInRoles" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Votes_ToPictures" Association="Model.Store.FK_Votes_ToPictures">
+      <End Role="Pictures" EntitySet="Pictures" />
+      <End Role="Votes" EntitySet="Votes" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Votes_ToUserProfile" Association="Model.Store.FK_Votes_ToUserProfile">
+      <End Role="UserProfile" EntitySet="UserProfile" />
+      <End Role="Votes" EntitySet="Votes" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Albums">
+    <Key>
+      <PropertyRef Name="AlbumId" />
+    </Key>
+    <Property Name="AlbumId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+    <Property Name="AlbumName" Type="nvarchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="InfoUsers">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="int" Nullable="false" />
+    <Property Name="Email" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Pictures">
+    <Key>
+      <PropertyRef Name="PictureId" />
+    </Key>
+    <Property Name="PictureId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="AlbumId" Type="int" />
+    <Property Name="PictureName" Type="nvarchar(max)" />
+    <Property Name="PictureUrl" Type="nvarchar(max)" />
+    <Property Name="PictureDescribe" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="PictureTags">
+    <Key>
+      <PropertyRef Name="PictureTagId" />
+    </Key>
+    <Property Name="PictureTagId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PictureId" Type="int" Nullable="false" />
+    <Property Name="TagId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Tags">
+    <Key>
+      <PropertyRef Name="TagId" />
+    </Key>
+    <Property Name="TagId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="TagName" Type="nvarchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="UserProfile">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Votes">
+    <Key>
+      <PropertyRef Name="VoteId" />
+    </Key>
+    <Property Name="VoteId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+    <Property Name="PictureId" Type="int" Nullable="false" />
+    <Property Name="Like" Type="bit" Nullable="false" />
+    <Property Name="Dislike" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="webpages_Membership">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="int" Nullable="false" />
+    <Property Name="CreateDate" Type="datetime" />
+    <Property Name="ConfirmationToken" Type="nvarchar" MaxLength="128" />
+    <Property Name="IsConfirmed" Type="bit" />
+    <Property Name="LastPasswordFailureDate" Type="datetime" />
+    <Property Name="PasswordFailuresSinceLastSuccess" Type="int" Nullable="false" />
+    <Property Name="Password" Type="nvarchar" Nullable="false" MaxLength="128" />
+    <Property Name="PasswordChangedDate" Type="datetime" />
+    <Property Name="PasswordSalt" Type="nvarchar" Nullable="false" MaxLength="128" />
+    <Property Name="PasswordVerificationToken" Type="nvarchar" MaxLength="128" />
+    <Property Name="PasswordVerificationTokenExpirationDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="webpages_OAuthMembership">
+    <Key>
+      <PropertyRef Name="Provider" />
+      <PropertyRef Name="ProviderUserId" />
+    </Key>
+    <Property Name="Provider" Type="nvarchar" Nullable="false" MaxLength="30" />
+    <Property Name="ProviderUserId" Type="nvarchar" Nullable="false" MaxLength="100" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="webpages_Roles">
+    <Key>
+      <PropertyRef Name="RoleId" />
+    </Key>
+    <Property Name="RoleId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="RoleName" Type="nvarchar" Nullable="false" MaxLength="256" />
+  </EntityType>
+  <EntityType Name="webpages_UsersInRoles">
+    <Key>
+      <PropertyRef Name="UserId" />
+      <PropertyRef Name="RoleId" />
+    </Key>
+    <Property Name="UserId" Type="int" Nullable="false" />
+    <Property Name="RoleId" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Albums_ToUsers">
+    <End Role="UserProfile" Type="Model.Store.UserProfile" Multiplicity="1" />
+    <End Role="Albums" Type="Model.Store.Albums" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserProfile">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Albums">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_InfoUsers_ToUserprofile">
+    <End Role="UserProfile" Type="Model.Store.UserProfile" Multiplicity="1" />
+    <End Role="InfoUsers" Type="Model.Store.InfoUsers" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="UserProfile">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="InfoUsers">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Pictures_ToAlbums">
+    <End Role="Albums" Type="Model.Store.Albums" Multiplicity="0..1" />
+    <End Role="Pictures" Type="Model.Store.Pictures" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Albums">
+        <PropertyRef Name="AlbumId" />
+      </Principal>
+      <Dependent Role="Pictures">
+        <PropertyRef Name="AlbumId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PictureTags_ToPictures">
+    <End Role="Pictures" Type="Model.Store.Pictures" Multiplicity="1" />
+    <End Role="PictureTags" Type="Model.Store.PictureTags" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Pictures">
+        <PropertyRef Name="PictureId" />
+      </Principal>
+      <Dependent Role="PictureTags">
+        <PropertyRef Name="PictureId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PictureTags_ToTags">
+    <End Role="Tags" Type="Model.Store.Tags" Multiplicity="1" />
+    <End Role="PictureTags" Type="Model.Store.PictureTags" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tags">
+        <PropertyRef Name="TagId" />
+      </Principal>
+      <Dependent Role="PictureTags">
+        <PropertyRef Name="TagId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_RoleId">
+    <End Role="webpages_Roles" Type="Model.Store.webpages_Roles" Multiplicity="1" />
+    <End Role="webpages_UsersInRoles" Type="Model.Store.webpages_UsersInRoles" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="webpages_Roles">
+        <PropertyRef Name="RoleId" />
+      </Principal>
+      <Dependent Role="webpages_UsersInRoles">
+        <PropertyRef Name="RoleId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_UserId">
+    <End Role="UserProfile" Type="Model.Store.UserProfile" Multiplicity="1" />
+    <End Role="webpages_UsersInRoles" Type="Model.Store.webpages_UsersInRoles" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserProfile">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="webpages_UsersInRoles">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Votes_ToPictures">
+    <End Role="Pictures" Type="Model.Store.Pictures" Multiplicity="1" />
+    <End Role="Votes" Type="Model.Store.Votes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Pictures">
+        <PropertyRef Name="PictureId" />
+      </Principal>
+      <Dependent Role="Votes">
+        <PropertyRef Name="PictureId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Votes_ToUserProfile">
+    <End Role="UserProfile" Type="Model.Store.UserProfile" Multiplicity="1" />
+    <End Role="Votes" Type="Model.Store.Votes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserProfile">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Votes">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

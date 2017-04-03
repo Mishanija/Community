@@ -1,0 +1,67 @@
+﻿a.tag:hover {
+    background-color: #f7dd60;
+    color: #601f47;
+    text-decoration: none;
+}
+
+a.tag:active {
+    background-color: #8e33c2;
+}
+
+.s1 {
+    font-size: 14px;
+    padding: 5px;
+}
+
+.s2 {
+    font-size: 16px;
+    padding: 6px;
+}
+
+.s3 {
+    font-size: 18px;
+    padding: 7px;
+}
+
+.s4 {
+    font-size: 20px;
+    padding: 8px;
+}
+
+.s5 {
+    font-size: 22px;
+    padding: 9px;
+}
+
+.s6 {
+    font-size: 24px;
+    padding: 10px;
+}
+
+.s7 {
+    font-size: 26px;
+    padding: 11px;
+}
+
+.s8 {
+    font-size: 28px;
+    padding: 12px;
+}
+
+.s9 {
+    font-size: 30px;
+    padding: 13px;
+}
+
+.s10 {
+    font-size: 32px;
+    padding: 14px;
+}
+
+a.tag {
+    display: inline-block;
+    margin-left: 5px;
+    margin-top: 10px;
+    background-color: #2cd276;
+    color: #fff;
+}

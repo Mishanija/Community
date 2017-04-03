@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" Inherits="System.Web.Mvc.ViewUserControl<SuperCommunity.Models.Entities.LikeChangeModel>" %>
+<%: Model.Likes %><script>var dislike = $('#dislikes' + <%: Model.PictureId %> );dislike.text(parseInt(dislike.text()) - 1);</script>
